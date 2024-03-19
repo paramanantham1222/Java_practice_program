@@ -1,3 +1,7 @@
+/*
+ * Print Prime numbers 1 to 100
+ */
+
 public class PrintPrime {
     public static void main(String[] args) {
         int num = 100;
